@@ -2,3 +2,10 @@
 
 Ideas: 
 LDA topic modeling 
+
+Considerations: 
+how to predict? 
+- whole page
+- paragraph 
+- sentence 
+- word
