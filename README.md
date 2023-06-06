@@ -1,7 +1,7 @@
 # OxML_ESG_BL_NC
 
 Objective: 
-Shoot for high 80%s for accuracy on the classification. Once reached, move to objective 2 of table classificaiton project. 
+Shoot for high 80%s for accuracy on the classification. Once reached, move to objective 2 of table detector project. 
 
 Ideas: 
 LDA topic modeling 
