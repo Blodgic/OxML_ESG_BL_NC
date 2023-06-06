@@ -10,6 +10,12 @@ Prediction:
 Ideas: 
 LDA topic modeling 
 
+UMAP finding - 
+The environment and social classes appear closely correlated and there may be confusion from prediction models on these two classes 
+
+<img width="498" alt="Screenshot 2023-06-06 at 4 57 59 PM" src="https://github.com/Blodgic/OxML_ESG_BL_NC/assets/7229755/c845ee02-5dd2-44a0-99b7-b7b3956ebc0f">
+
+
 Considerations: 
 how to predict? 
 - whole page
