@@ -3,6 +3,10 @@
 Objective: 
 Shoot for high 80%s for accuracy on the classification. Once reached, move to objective 2 of table detector project. 
 
+Prediction: 
+1. One model for class and high accuracy of submission.csv 
+2. ** Extra ** probabilty of strenth to the class 
+
 Ideas: 
 LDA topic modeling 
 
