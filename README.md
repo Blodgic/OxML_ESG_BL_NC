@@ -1,5 +1,21 @@
-# OxML_ESG_BL_NC
+## OxML_ESG_BL_NC
 
+### Competition Winner !! ## 
+Read more [here](./ESG_Case_winner.pdf)
+
+[Link to Kaggle Competion](https://link-url-here.org](https://www.kaggle.com/competitions/oxml2023mlcases-esg-classifier)
+
+
+### Kaggle Competition Details:
+As a Data Scientist in a rating agency, your goal is to build an ESG document classifier that can take a document as an input, classify each page to be either E,S or G related. The business wants your approach to beat an existing baseline that results in 90% F-score, while having a strong 95% on environmental content
+
+### Evaluation
+Metric The evaluation metric for this competition is [Mean F1-Score](https://en.wikipedia.org/wiki/F-score). The F1 score, commonly used in information retrieval, measures accuracy using the statistics precisionand recall. The F1 metric weights recall and precision equally, and a good retrieval algorithm will maximize both precision and recall simultaneously. Thus, moderately good performance on both will be favored over extremely good performance on one and poor performance on the other. ### Submission Format **For every file x page in the dataset**, submission files should contain two columns: `id` and `class`. The file should contain a header and have the following format: ``` id,class report_123.pdf.4,social ```
+Citation
+Khemon. (2023). OxML 2023 | ML Cases | ESG Document Classifier. Kaggle. https://kaggle.com/competitions/oxml2023mlcases-esg-classifier
+
+
+### Approach and Plan
 Here is some information about the format of the module and the schedule:
 Format:
 We will be using Kaggle as a platform to host the challenge. You are encouraged to team up in group of 3 people. Working in small teams have several benefits:
