@@ -1,7 +1,7 @@
 ## OxML_ESG_BL_NC
 
 ### Competition Winner !! ## 
-Read more [here](./ESG_Case_winner.pdf)
+Certificate of Achievement [here](./ESG_Case_winner.pdf)
 
 [Link to Kaggle Competion](https://link-url-here.org](https://www.kaggle.com/competitions/oxml2023mlcases-esg-classifier)
 
